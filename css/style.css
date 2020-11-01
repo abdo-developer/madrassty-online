@@ -102,6 +102,8 @@ h5.last-text {
 @media (min-width: 320px) and (max-width: 575.98px) {
   .emails a {
     background-color: transparent;
+    font-size: 24px;
+    color: orangered;
   }
 
   .title_section h4 {
@@ -109,16 +111,43 @@ h5.last-text {
   }
 
   .section__tweets h4.custom_heading {
-    font-size: 18px;
+    font-size: 24px;
   }
 
   h5.last-text {
-    font-size: 16px;
+    font-size: 22px;
   }
 
   header img {
-    height: 100px;
-    margin-right: 65%;
+    height: 55px;
+    margin-right: 245%;
+  }
+
+  header img.logo-five {
+    margin-right: 60%;
+  }
+
+  .title_section h4 {
+    font-size: 27px;
+  }
+
+  #section_first .file_pdf a {
+    font-size: 22px;
+    color: orangered;
+    background-color: transparent;
+  }
+
+  .motion_infographics h5.custom-heading {
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .section__abha h4.custom-heading {
+    font-size: 24px;
+  }
+
+  li.cst-name {
+    font-size: 22px;
   }
 }
 
