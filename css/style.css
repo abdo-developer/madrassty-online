@@ -11,7 +11,7 @@ body {
 }
 
 header img {
-  height: 110px;
+  height: 95px;
   margin-left: 22px;
   margin-top: 15px;
 }
@@ -30,7 +30,6 @@ header img.logo-five {
 }
 
 #section_first .file_pdf a {
-  margin-right: 46%;
   font-size: 16px;
   text-decoration: none;
   color: black;
@@ -49,6 +48,11 @@ header img.logo-five {
   font-size: 18px;
   font-weight: 600;
   margin: 25px 0;
+  text-align: center;
+}
+
+.file_pdf {
+  text-align: center;
 }
 
 .emails a {
@@ -97,6 +101,12 @@ h5.last-text {
   line-height: 30px;
 }
 
+.vedio_youtube {
+  text-align: center;
+}
+
+
+
 /********* *******  Responsive pages ****** ***********/
 
 @media (min-width: 320px) and (max-width: 575.98px) {
@@ -120,7 +130,6 @@ h5.last-text {
 
   header img {
     height: 55px;
-    margin-right: 245%;
   }
 
   header img.logo-five {
