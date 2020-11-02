@@ -122,6 +122,7 @@ h5.last-text {
 
   .section__tweets h4.custom_heading {
     font-size: 24px;
+    margin-right: 36%;
   }
 
   h5.last-text {
@@ -129,15 +130,18 @@ h5.last-text {
   }
 
   header img {
-    height: 55px;
+    height: 35px;
+    margin-right: 70px;
   }
 
   header img.logo-five {
-    margin-right: 60%;
+    height: 45px;
+    margin-right: 130px;
   }
 
   .title_section h4 {
     font-size: 27px;
+    margin-right: 56%;
   }
 
   #section_first .file_pdf a {
@@ -149,6 +153,7 @@ h5.last-text {
   .motion_infographics h5.custom-heading {
     font-size: 24px;
     font-weight: bold;
+    margin-right: 75%;
   }
 
   .section__abha h4.custom-heading {
